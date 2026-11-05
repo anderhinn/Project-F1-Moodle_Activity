@@ -12,7 +12,7 @@ Topic proposed by Reimo Palm (University of Tartu).
 
 ## Description
 
-We analyse coded daily Moodle activity logs of students and teachers from the Theoretical Computer Science course (University of Tartu, 2019–2025). Learning and teaching have been disrupted by COVID-19 and the rise of large language models, and we want to see how activity patterns changed and whether they predict final results.
+We analyse coded daily Moodle activity logs of students and teachers from the Theoretical Computer Science course (University of Tartu, 2019–2026). Learning and teaching have been disrupted by COVID-19 and the rise of large language models, and we want to see how activity patterns changed and whether they predict final results.
 
 ## Goals
 
