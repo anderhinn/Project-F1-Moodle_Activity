@@ -16,6 +16,6 @@ We analyse coded daily Moodle activity logs of students and teachers from the Th
 
 ## Goals
 
-1. Analyse how student and teacher activity patterns in Moodle changed over 2019–2025.
+1. Analyse how student and teacher activity patterns in Moodle changed over 2019–2026.
 2. Build models that predict students' final results from their Moodle activity.
 3. Test whether models trained on earlier cohorts generalise to later cohorts.
