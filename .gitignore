@@ -1,2 +1,6 @@
 /data
+/docs
+manifest.csv
 .DS_Store
+__pycache__/
+.ipynb_checkpoints/
