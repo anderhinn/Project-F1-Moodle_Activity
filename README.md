@@ -26,7 +26,8 @@ About 15% of students fail the course or don't come to the exam. If teachers cou
 | `hw10/01_data_prep_denis.ipynb` | Data preparation: how the data was cleaned and which features were made. |
 | `hw10/02_trends_marina.ipynb` | Goal 1: how student and teacher activity changed from 2019 to 2026. |
 | `hw10/03_models_ander.ipynb` | Goal 2: baseline rule and models that predict who will fail. |
-| `results/figures/` | Figures as PDF files. |
+| `hw10/04_generalization_denis.ipynb` | Goal 3: how well the rule and the models work on 2025 and 2026, each year on its own. |
+| `results/figures/` | Figures as PDF files. The first word of the file name shows which notebook made it: `prep_` and `fig2_pass_vs_fail` (data preparation), `trends_` (trends), `gen_` (new years). |
 | `requirements.txt` | Python packages needed to run the notebooks. |
 | `IDS2026_HW07.ipynb` | Homework 7: business understanding and first look at the data. |
 
@@ -61,6 +62,6 @@ The folder `data/` is in `.gitignore`, so it is never uploaded to GitHub.
 
 3. Put the data into the `data/` folder as shown above.
 
-4. Open the notebooks in the `hw10/` folder and run them in this order, each with Restart & Run All: `01_data_prep_denis.ipynb`, `02_trends_marina.ipynb`, `03_models_ander.ipynb`. The figures are saved to `results/figures/`.
+4. Open the notebooks in the `hw10/` folder and run them in this order, each with Restart & Run All: `01_data_prep_denis.ipynb`, `02_trends_marina.ipynb`, `03_models_ander.ipynb`, `04_generalization_denis.ipynb`. The figures are saved to `results/figures/`.
 
 If `read_parquet` gives an error, check that `pyarrow` is installed. With NumPy 1.x you need `pyarrow` older than version 18.
