@@ -27,7 +27,7 @@ About 15% of students fail the course or don't come to the exam. If teachers cou
 | `hw10/02_trends_marina.ipynb` | Goal 1: how student and teacher activity changed from 2019 to 2026. |
 | `hw10/03_models_ander.ipynb` | Goal 2: baseline rule and models that predict who will fail. |
 | `hw10/04_generalization_denis.ipynb` | Goal 3: how well the rule and the models work on 2025 and 2026, each year on its own. |
-| `results/figures/` | Figures as PDF files. The first word of the file name shows which notebook made it: `prep_` and `fig2_pass_vs_fail` (data preparation), `trends_` (trends), `gen_` (new years). |
+| `results/figures/` | Figures as PDF files. The first word of the file name shows which notebook made it: `prep_` (data preparation), `trends_` (trends), `gen_` (new years). |
 | `requirements.txt` | Python packages needed to run the notebooks. |
 | `IDS2026_HW07.ipynb` | Homework 7: business understanding and first look at the data. |
 
